@@ -1,0 +1,27 @@
+{
+  "name": "coolid",
+  "version": "2.0.0",
+  "description": "pretty uuid",
+  "main": "index.js",
+  "scripts": {
+    "build": "react-scripts build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aligos/coolid.git"
+  },
+  "keywords": [
+    "pretty",
+    "uuid"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aligos/coolid/issues"
+  },
+  "homepage": "https://github.com/aligos/coolid#readme",
+  "dependencies": {
+    "coolid": "^2.0.0"
+  }
+}
