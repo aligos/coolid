@@ -7,3 +7,5 @@ just install and import like below:
 &
 
 `const {coolid} = require('coolid')`
+
+Welcome for contributor :)
